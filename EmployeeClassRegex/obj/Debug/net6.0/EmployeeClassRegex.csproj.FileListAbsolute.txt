@@ -1,0 +1,15 @@
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\bin\Debug\net6.0\EmployeeClassRegex.exe
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\bin\Debug\net6.0\EmployeeClassRegex.deps.json
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\bin\Debug\net6.0\EmployeeClassRegex.runtimeconfig.json
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\bin\Debug\net6.0\EmployeeClassRegex.dll
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\bin\Debug\net6.0\ref\EmployeeClassRegex.dll
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\bin\Debug\net6.0\EmployeeClassRegex.pdb
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.csproj.AssemblyReference.cache
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.AssemblyInfoInputs.cache
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.AssemblyInfo.cs
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.csproj.CoreCompileInputs.cache
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.dll
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\ref\EmployeeClassRegex.dll
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.pdb
+C:\Users\Pavani\source\repos\EmployeeClassRegex\EmployeeClassRegex\obj\Debug\net6.0\EmployeeClassRegex.genruntimeconfig.cache
